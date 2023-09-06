@@ -1,4 +1,5 @@
 # Java-Project-with-Database
+Russian:
 
    Разработать проект управления процессами на основе создания и реализации интерфейсов для
 предметных областей, создать консольное приложение, удовлетворяющее следующим требованиям:
@@ -21,3 +22,29 @@
     компилированных запросов; 
 
     4.создать класс на модификацию информации.
+
+
+English:
+
+   Develop a process management project based on the creation and implementation of interfaces for
+subject areas, create a console application that meets the following requirements:
+use the capabilities of OOP: classes, inheritance, polymorphism, encapsulation. Each class should
+have a meaningful name and informative composition. Inheritance should
+only be applied when it makes sense. The classes should be properly decomposed into packages. If
+necessary, use internal and nested classes. The console menu should be
+minimal
+
+   Loans. To form a set of offers to the client for targeted loans from various
+banks for optimal choice. Consider the possibility of early repayment of the loan and/or
+an increase in the credit line. Implement the selection and search for a loan. And execute :
+
+      1.put the organization of the connection to the database in a separate class, the method of which
+      returns a connection;
+
+      2. create a database. Bring the tables to one of the normal forms;
+
+      3.create a class to execute queries to extract information from the database using
+      compiled queries;
+
+      4. create a class to modify the information.
+
